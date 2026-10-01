@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+pillow
+
+# optional — only needed for core.losses.lpips_loss / build_lpips (training)
+# lpips
